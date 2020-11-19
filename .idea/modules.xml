@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ReportCardApp.iml" filepath="$PROJECT_DIR$/ReportCardApp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ReportCardApp.iml" filepath="$PROJECT_DIR$/.idea/ReportCardApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ReportCardApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ReportCardApp.app.iml" />
     </modules>
   </component>
 </project>
